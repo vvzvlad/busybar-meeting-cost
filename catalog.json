@@ -1,6 +1,6 @@
 {
   "category": "productivity",
   "short_description": "The live cost of the meeting you are in, ticking up on your BUSY Bar.",
-  "description": "Everyone in a meeting costs money. This app shows how much, second by second.\n\n## How to use\n\n- Turn the wheel to set how many people are in the meeting, from 1 to 99, before or during it.\n- Press **Start** to start the count, and again to pause it.\n- Press **OK** to reset it to zero.\n\n## What you see\n\nThe total in large digits, and under it the headcount and the time elapsed, such as 8 ppl 23:41. Each person counts at $100 an hour.\n\nWorks offline.",
-  "changelog": "First release: the headcount on the wheel, start, pause and reset, $100 an hour per person."
+  "description": "Everyone in a meeting costs money. This app shows how much, second by second.\n\n## How to use\n\n- Turn the wheel to set how many people are in the meeting, from 1 to 99, before or during it.\n- Press **Start** to start the count, and again to pause it.\n- Press **OK** to reset it to zero.\n\n## What you see\n\n- The total in large digits, and under it the headcount and the time elapsed, such as 8 ppl 23:41.\n- The back display shows the total in digits as tall as the display, so your colleagues can see it too.\n\n## Settings\n\nThe hourly rate per person ($100 by default), the currency (USD, EUR or GBP) and the default headcount.\n\nWorks offline.",
+  "changelog": "First release: the headcount on the wheel, start, pause and reset, the rate and currency in the settings, the total on the back display."
 }
